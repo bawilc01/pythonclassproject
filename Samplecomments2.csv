@@ -1,11 +1,11 @@
-﻿User Name,Date,Comment
-ABC123,5/20/2020,I love the training!
-ABC234,5/20/2020,The training is alright.
-ABC345,5/20/2020,Training is okay.
-ABC456,5/20/2020,Training is terrible.
-ABC567,5/19/2020,I hate the training.
-ABC678,5/19/2020,I wish I didn't have to take the training.
-ABC789,5/19/2020,The training is pretty good.
-ABC890,5/15/2020,The training is really helpful.
-ABC901,5/15/2020,Training helps my team and I perform our jobs better.
-ABC902,5/14/2020,Training is a waste of time and I don't want it to be required.
+﻿Username,Date,Restaurant,OSC,Receiving,Wish,Feedback
+ABC123,5/20/2020,B000001,4.00,Yes,Shorter; More shoulder-to-shoulder,I love the training!
+ABC234,5/20/2020,B000002,3.20,No,More shoulder-to-shoulder,The training is alright.
+ABC345,5/20/2020,B000003,3.80,Yes,More computer,Training is okay.
+ABC456,5/20/2020,B000004,2.80,No,Longer,Training is terrible.
+ABC567,5/19/2020,B000005,2.50,No,Shorter; More shoulder-to-shoulder,I hate the training.
+ABC678,5/19/2020,B000006,3.10,No,Shorter; More computer,I wish I didn't have to take the training.
+ABC789,5/19/2020,B000007,3.60,Yes,Shorter,The training is pretty good.
+ABC890,5/15/2020,B000008,3.80,Yes,More shoulder-to-shoulder,The training is really helpful.
+ABC901,5/15/2020,B000009,3.95,Yes,Longer; More shoulder-to-shoulder,Training helps my team and I perform our jobs better.
+ABC902,5/14/2020,B000010,2.50,No,More computer,Training is a waste of time and I don't want it to be required.
