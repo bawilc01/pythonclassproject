@@ -1,0 +1,21 @@
+﻿Restaurant,SalesMil,Safety,WindowSeconds,BestofBestAward,FullyTrained,Staff,FollowSchedule
+B000001, $2.2 ,Yes,65,Yes,Yes,40,Yes
+B000002, $2.1 ,Yes,80,No,Yes,36,Yes
+B000003, $2.0 ,Yes,75,Yes,Yes,38,Yes
+B000004, $1.6 ,Yes,120,No,Yes,17,No
+B000005, $1.2 ,No,130,No,No,13,No
+B000006, $1.1 ,Yes,100,No,Yes,18,No
+B000007, $1.9 ,Yes,90,No,Yes,19,No
+B000008, $1.8 ,Yes,70,No,Yes,22,Yes
+B000009, $1.8 ,Yes,75,Yes,Yes,37,Yes
+B000010, $1.1 ,No,180,No,No,17,No
+A000001, $2.2 ,Yes,70,Yes,Yes,35,Yes
+A000002, $2.1 ,Yes,75,No,Yes,29,Yes
+A000003, $2.0 ,Yes,85,Yes,Yes,33,Yes
+A000004, $1.6 ,Yes,150,No,Yes,32,Yes
+A000005, $1.2 ,Yes,190,No,No,19,No
+A000006, $1.1 ,No,180,No,Yes,25,Yes
+A000007, $1.9 ,Yes,65,No,Yes,28,Yes
+A000008, $1.8 ,Yes,70,No,Yes,27,Yes
+A000009, $1.8 ,Yes,70,Yes,Yes,33,Yes
+A000010, $1.1 ,No,200,No,No,16,No
