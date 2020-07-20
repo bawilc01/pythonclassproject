@@ -19,4 +19,4 @@ This project takes a look at a couple of fabricated data sets that accurately re
 - Ran analyses on the data to display outputs that could be used for decision making, including surface level analyses and more in-depth statistical tests
 - Analyzed text and displayed frequency of phrases from the open response, qualitative data
 - Defined a function (table_converter) to create x and y axis lists for Bokeh bar graphs, making it easier to reproduce for other data in question
-- Added in visualizations of data using Bokeh to make trends easier to see and understand (both scatter plots and a bar graph)
+- Added in data visualizations using Bokeh to make trends easier to see and understand (both scatter plots and a bar graph)
