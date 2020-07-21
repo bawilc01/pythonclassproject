@@ -9,9 +9,9 @@ This project takes a look at a couple of fabricated data sets that accurately re
     - `<pip install bokeh>`
     - `<pip install scipy>`
     - `<pip install notebook>`
-3. Run Jupyter Notebooks from terminal:
+3. Run Jupyter Notebooks from terminal with the command:
     - `<jupyter notebook>`
-4. Open the TrainingAnalysisProject.ipynb notebook
+4. Open the pythonclassproject-master/TrainingAnalysisProject.ipynb notebook
 5. Click *cell* and *Run All* to run the entire notebook
 
 ### Project Requirements
@@ -20,3 +20,4 @@ This project takes a look at a couple of fabricated data sets that accurately re
 - Analyzed text and displayed frequency of phrases from the open response, qualitative data
 - Defined a function (table_converter) to create x and y axis lists for Bokeh bar graphs, making it easier to reproduce for other data in question
 - Added in data visualizations using Bokeh to make trends easier to see and understand (both scatter plots and a bar graph)
+- Confirm other requirements met not listed in python project requirements list for using external libraries, analyzing data and displaying data in meaningful way.
